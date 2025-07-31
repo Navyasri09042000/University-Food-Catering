@@ -14,6 +14,5 @@ Tools & Technologies:
 - Database: Microsoft SQL Server
 - Frameworks: .Net, Entity Framework
 
-<a href="https://www.youtube.com/watch?v=TkHSKbZm1RM">Project Video Demo</a>
 
 
